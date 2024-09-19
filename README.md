@@ -60,7 +60,7 @@ Feel free to contribute by opening an issue or submitting a pull request. All co
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
-**AVI (Piyush Singh Negi)**
+**AVI (Piyush Negi)**
 
 - [GitHub](https://github.com/Piyushnegi04)
 - [LinkedIn](https://www.linkedin.com/in/piyush-singh-negi-807b6a188/)
